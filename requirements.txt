@@ -6,7 +6,7 @@ img2pdf
 ffmpeg-python==0.2.0
 redis==3.5.3
 aioredis==2.0.1
-hiredis==2.0.0
+hiredis==2.1.1
 Python_ARQ
 motor
 multicolorcaptcha
